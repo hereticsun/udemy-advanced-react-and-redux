@@ -16,6 +16,9 @@
     "redux-promise": "0.6.0",
     "tv4": "1.3.0"
   },
+  "overrides": {
+    "cheerio": "1.0.0-rc.12"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
